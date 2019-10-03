@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahnaphahpo.mloda-moda.pl/sitemap.xml
